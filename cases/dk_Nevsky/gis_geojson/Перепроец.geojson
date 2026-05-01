@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Перепроец",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32636" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n13145090091", "osm_id": "13145090091", "osm_type": "node", "amenity": "community_centre", "addr:street": "проспект Обуховской Обороны", "addr:housenumber": "105", "addr:city": "Санкт-Петербург", "website": "https://krupaspb.tilda.ws/", "phone": null, "community_centre": "cultural_centre", "check_date": null, "addr:postcode": null, "opening_hours": "Tu-Su 10:00-19:00", "name": "Культурный Центр - Крупа", "access": null, "entrance": null }, "geometry": { "type": "Point", "coordinates": [ 356447.670388487749733, 6642523.95272371172905 ] } }
+]
+}

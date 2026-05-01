@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "арт",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n1109038652", "osm_id": "1109038652", "osm_type": "node", "amenity": null, "wheelchair": null, "website": null, "name:ru": null, "entrance": null, "name": null, "barrier": "gate" }, "geometry": { "type": "Point", "coordinates": [ 30.2945171, 59.9093838 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1216634856", "osm_id": "1216634856", "osm_type": "node", "amenity": "arts_centre", "wheelchair": null, "website": null, "name:ru": null, "entrance": null, "name": "Планета танцев", "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 30.3293297, 59.8853882 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2311595191", "osm_id": "2311595191", "osm_type": "node", "amenity": null, "wheelchair": null, "website": null, "name:ru": null, "entrance": "yes", "name": null, "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 30.2752952, 59.9004231 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3129327631", "osm_id": "3129327631", "osm_type": "node", "amenity": "arts_centre", "wheelchair": null, "website": "https://leonastage.ru/", "name:ru": "Леона стейдж", "entrance": null, "name": "Leona stage", "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 30.280731, 59.9057513 ] } },
+{ "type": "Feature", "properties": { "full_id": "n4874976814", "osm_id": "4874976814", "osm_type": "node", "amenity": null, "wheelchair": null, "website": null, "name:ru": null, "entrance": "yes", "name": null, "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 30.3208662, 59.8842996 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6661744811", "osm_id": "6661744811", "osm_type": "node", "amenity": null, "wheelchair": "no", "website": null, "name:ru": null, "entrance": "yes", "name": null, "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 30.2939926, 59.9093875 ] } },
+{ "type": "Feature", "properties": { "full_id": "n7546549787", "osm_id": "7546549787", "osm_type": "node", "amenity": null, "wheelchair": null, "website": null, "name:ru": null, "entrance": "yes", "name": null, "barrier": null }, "geometry": { "type": "Point", "coordinates": [ 30.3225999, 59.8839817 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "тц",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n4600880328", "osm_id": "4600880328", "osm_type": "node", "wheelchair": null, "level": null, "door": null, "entrance": "main", "traffic_calming": null }, "geometry": { "type": "Point", "coordinates": [ 30.2745322, 59.9034218 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8711897101", "osm_id": "8711897101", "osm_type": "node", "wheelchair": null, "level": "0", "door": "revolving", "entrance": "yes", "traffic_calming": null }, "geometry": { "type": "Point", "coordinates": [ 30.273389, 59.9002652 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8711897102", "osm_id": "8711897102", "osm_type": "node", "wheelchair": null, "level": "0", "door": "revolving", "entrance": "yes", "traffic_calming": null }, "geometry": { "type": "Point", "coordinates": [ 30.2737502, 59.8998292 ] } }
+]
+}
